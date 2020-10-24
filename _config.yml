@@ -36,8 +36,12 @@ navigation_header:
   url: /
 - title: About
   url: /about/
+- title: Research Interest
+  url: /research/
 - title: Blog
   url: /blog/
+- title: Artwork
+  url: /artwork/
 
 # Footer nav
 navigation_footer:
