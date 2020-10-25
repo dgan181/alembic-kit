@@ -24,7 +24,6 @@ baseurl: ''
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
-logo: ""
 
 # Pagination
 paginate: 5
