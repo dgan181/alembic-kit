@@ -24,7 +24,7 @@ baseurl: ""
 title: 'Divyanshu Gupta'
 description: 'Personal website'
 permalink: pretty
-logo: "/assets/logo.svg"
+logo: "/assets/logo_32.svg"
 
 # Pagination
 paginate: 5
