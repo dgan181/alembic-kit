@@ -19,12 +19,13 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
-baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+url: 'https://divyanshugupta.netlify.app'
+baseurl: ""
+title: 'Divyanshu Gupta'
+description: 'Personal website'
 permalink: pretty
 logo: "logo.png"
+
 # Pagination
 paginate: 5
 paginate_path: blog/page:num
